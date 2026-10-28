@@ -85,8 +85,8 @@ $phone_number = $_POST["phone"];
 
 
 
-// $to = "sachin@property-first.com,manjot@property-first.com";
-$to = "vaibhavspf1997@gmail.com";
+$to = "sachin@property-first.com,manjot@property-first.com";
+// $to = "vaibhavspf1997@gmail.com";
 
 
 

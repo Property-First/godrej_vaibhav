@@ -17,11 +17,11 @@ $(".slide-submit button")
         //   $('#whatsappClick button').trigger('click');
         //   $('.whatsappClickClass').trigger('click');
         //wa.me/+91?text=I'm%20interested%20in%20your%20car%20for%20sale
-        // href="https://api.whatsapp.com/send?phone=+9189711403009&text=Hi%2C%20I%20am%20Interested%20in%20Godrej%20Bannerghatta%2C%20Bangalore%20Project.%20Please%20share%20the%20project%20Brochure%20%26%20Details%20with%20me.%20Thank%20you."
+        // href="https://api.whatsapp.com/send?phone=+9170900007799&text=Hi%2C%20I%20am%20Interested%20in%20Godrej%20Bannerghatta%2C%20Bangalore%20Project.%20Please%20share%20the%20project%20Brochure%20%26%20Details%20with%20me.%20Thank%20you."
        
       //  href="https://api.whatsapp.com/send?phone=917090000779&text=Hi%2C%20I%20am%20Interested%20in%20Godrej%20Altus%2C%20Vastrapur%2C%20Ahmedabad.%20Please%20share%20the%20project%20Brochure%20%26%20Details%20with%20me.%20Thank%20you."
         https: location.href =
-          "https://api.whatsapp.com/send?phone=918971140300&text=Hi%2C%20I%20am%20interested%20in%20Godrej%20Epoque%20Neopolis%2C%20Kokapet%2C%20Hyderabad.%20Please%20share%20the%20project%20brochure%20and%20details%20with%20me.%20Thank%20you.";
+          "https://api.whatsapp.com/send?phone=917090000779&text=Hi%2C%20I%20am%20interested%20in%20Godrej%20Epoque%20Neopolis%2C%20Kokapet%2C%20Hyderabad.%20Please%20share%20the%20project%20brochure%20and%20details%20with%20me.%20Thank%20you.";
 
         $(this).next().css({ "margin-left": 0 }).text("Launching WhatsApp");
         $(this).draggable("false");
